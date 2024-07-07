@@ -29,4 +29,4 @@ Local LLMBot is a Python application designed to act as a question-and-answer as
 
    ```bash
    streamlit run app.py
-    Open your web browser and go to http://localhost:8501 to interact with the Local LLMBot.
+>Open your web browser and go to http://localhost:8501 to interact with the Local LLMBot.
