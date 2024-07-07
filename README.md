@@ -7,3 +7,16 @@ Local LLMBot is a Python application designed to act as a question-and-answer as
 - `app.py`: The main application file that runs the Streamlit web interface.
 - `requirements.txt`: Lists the dependencies required for the project.
 - `code_without_UI.py`: Contains the core logic of the application without the UI components, designed to run in a terminal environment.
+
+## Prerequisites
+
+- Python 3.x
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone <repository_url>
+   cd <repository_directory>
+
