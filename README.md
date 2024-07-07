@@ -35,3 +35,11 @@ Local LLMBot is a Python application designed to act as a question-and-answer as
 
     ```bash
     python code_without_UI.py
+
+## Contributing
+
+If you would like to contribute, please fork the repository and use a feature branch. Pull requests are welcome.
+
+## Contact
+
+For any issues or inquiries, please contact [Saurabh Kumar Singh] at [heyyysaurabh@gmail.com].
