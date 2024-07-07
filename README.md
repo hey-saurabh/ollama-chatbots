@@ -20,3 +20,13 @@ Local LLMBot is a Python application designed to act as a question-and-answer as
    git clone <repository_url>
    cd <repository_directory>
 
+2. Install the required packages:
+
+   ```bash
+   pip install -r requirements.txt
+
+3. Running the Streamlit Web Application
+
+   ```bash
+   streamlit run app.py
+Open your web browser and go to http://localhost:8501 to interact with the Local LLMBot.
